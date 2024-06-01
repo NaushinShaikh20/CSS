@@ -28,7 +28,7 @@ Not only the main course but India's snacks are also healthy such as Dhokla, Moo
 <ul>
   <li> Bataka Poha <span>one</span></li>
   <li> Dhosa </li>
-  <li> <em> Daal  Poori</em></li>
+  <li> <em> <a href="https://cf0316.s3.amazonaws.com/cookificom/dishes/12481/52bc2d.jpg">Daal  Poori</a>  </em>  </li>
 </ul>
 </body>
 </html>
