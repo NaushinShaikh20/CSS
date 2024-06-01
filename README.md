@@ -25,7 +25,7 @@ Not only the main course but India's snacks are also healthy such as Dhokla, Moo
 
 <p>The list of breakfast items. </p>
 
-<ul>
+<ul style="list-style-type:circle">
   <li> Bataka Poha <span>one</span></li>
   <li>  <em> <a href="https://jfwonline.com/wp-content/uploads/2016/11/Plain-dosa-JFW-Article.jpg">Dhosa </a>  </em> </li>
   <li> <em> <a href="https://cf0316.s3.amazonaws.com/cookificom/dishes/12481/52bc2d.jpg">Daal  Poori</a>  </em>  </li>
