@@ -23,12 +23,12 @@ India is well known for it's culture and it's food. One of the famous is pulses.
 Not only the main course but India's snacks are also healthy such as Dhokla, Moong Daal Chila, Idali with Sambhar and Batata Poha, Dhokla, Handva, and many more which can not listed here. Here Batata Phoha can be the main discussion. Poha is made from rice flakes. It is rich in iron. It is a good gluten-free option for those with gluten intolerance. It is good in vitamins which keep blood pressure under control and low cholesterol which helps the heart to keep healthy.  
 </p>
 
-<p>The list of breakfast items. <em>emphasized</em> element.</p>
+<p>The list of breakfast items. </p>
 
 <ul>
   <li> Bataka Poha <span>one</span></li>
   <li> Dhosa </li>
-  <li> Daal <em> Poori</em></li>
+  <li> <em> Daal  Poori</em></li>
 </ul>
 </body>
 </html>
